@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DP/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/layout/content_main.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/DP/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/layout/fragment_gallery.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/DP/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/layout/fragment_green.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/DP/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/DP/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/menu/activity_main_drawer.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DP/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.webp.xml" value="0.15" />
+        <entry key="..\:/Users/DP/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/mipmap-anydpi-v26/ic_launcher2.webp.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
